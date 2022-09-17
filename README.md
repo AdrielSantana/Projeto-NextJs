@@ -1,34 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Projeto Next Js
 
-## Getting Started
+------------------------------
 
-First, run the development server:
+### Catálogo de produtos
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Projeto básico para aprendizado do framework Next Js e do uso da linguagem TypeScript. O site se baseia num catálogo de produtos da Apple, podendo ser acessados para mais informações e manipulados no carrinho.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Para melhor visualização, aqui vai o link do site: [Site do Projeto](http://www.nextjs.adrielsan.social)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### Tecnologias que utilizei:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+* TypeScript
+* Next Js
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+> Detalhes técnicos:
 
-## Learn More
+> Aprendi sobre o uso das renderizações estáticas, do lado do servidor e do lado cliente, assim tornando uma ótima ferramenta para o SEO do site, também entendendo a praticidade do framework react "de produção". Além disso, o TypeScript torna o projeto muito mais sólido e estável, fazendo a criação do site bem mais rápida e constante.
 
-To learn more about Next.js, take a look at the following resources:
+> Os dados e imagens dos produtos é de um "banco" Json no próprio projeto para não se aprofundar muito nesse quesito, fazendo apenas requisições pelo próprio next com o fetch. Deploy feito na própria vercel.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+> Futuramente pretendo extender essa ideia de venda de produtos com um projeto sólido e completa, aguarde os próximos capítulos...
