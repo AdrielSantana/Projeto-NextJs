@@ -6,7 +6,7 @@
 
 Projeto básico para aprendizado do framework Next Js e do uso da linguagem TypeScript. O site se baseia num catálogo de produtos da Apple, podendo ser acessados para mais informações e manipulados no carrinho.
 
-#### Para melhor visualização, aqui vai o link do site: [Site do Projeto](http://www.nextjs.adrielsan.social)
+#### Para melhor visualização, aqui vai o link do site: [Site do Projeto](https://catalogo.adrielsan.pro)
 
 ### Tecnologias que utilizei:
 
